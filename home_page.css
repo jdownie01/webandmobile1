@@ -1,0 +1,31 @@
+* {
+	background:#e6e2d3;
+ 	}
+
+a {
+  //display: block;
+  color: blue;
+  //padding: 14px 16px;
+  text-decoration: none;
+}
+a:hover {
+ color: blue;
+}
+a:visited {
+ color: darkblue;
+}
+a:active {
+ color: black;
+}
+
+figure {
+float: right;
+text-align: left;
+}
+img {
+ border: 3px solid;
+ border-color: red;
+}
+.importanttext {
+color: red;
+}
